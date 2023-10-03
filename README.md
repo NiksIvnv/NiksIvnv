@@ -16,6 +16,9 @@
     <a href="https://www.linkedin.com/in/niks-ivnv-36a745286/" target="_blank">
       <img src="https://cdn-icons-png.flaticon.com/512/2504/2504799.png" width="40" height="40" alt="linkedin" />
     </a>
+    <a href="https://codepen.io/niksivnv" target="_blank">
+      <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="codepen" height="40" width="40" />
+    </a>
   </div>
 
 ---
@@ -27,6 +30,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title="css" alt="css" width="40" height="40"/>&nbsp
 </div>
 
+
 ---
 
 ### 🛠 Tools:
@@ -34,9 +38,7 @@
 <div>
   <img src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Notion-logo.svg" title="Notion" alt="Notion" width="40" height="40"/>&nbsp;
 </div>
-<a href="https://codepen.io/niksivnv" target="_blank">
-      <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="codepen" height="40" width="40" />
-    </a>
+
 ---
  
 
