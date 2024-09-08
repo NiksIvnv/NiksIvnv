@@ -29,7 +29,7 @@
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="html5" alt="html5" width="40" height="40"/>&nbsp
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title="css" alt="css" width="40" height="40"/>&nbsp
-  <img src="https://assets.website-files.com/65e87f68dc636e71667a539c/667bfae829f75ed433514ace_webflow-icon-blue.svg" title="webflow" alt="webflow" width="40" height="40"/>&nbsp
+  <img src="https://assets.website-files.com/65e87f68dc636e71667a539c/668264efd2ed89c50f518ce3_webflow-fullblue.svg" title="webflow" alt="webflow" width="40" height="40"/>&nbsp
 </div>
 
 
